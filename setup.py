@@ -18,7 +18,7 @@ if sys.argv[-1] == 'publish':
     sys.exit()
 
 
-NAME = "future"
+NAME = "future-nodefix"
 PACKAGES = ["future",
             "future.builtins",
             "future.types",

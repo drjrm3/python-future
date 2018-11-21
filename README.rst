@@ -1,3 +1,12 @@
+.. _explanation:
+
+Explanation:
+============
+
+This repository is a fork from the main ``python-future`` repository to be
+able to deal with the hardcoded `/tmp` files in an isolated manner so that
+`cwltool` can be run on a multi-tenant HPC cluster.
+
 .. _overview:
 
 Overview: Easy, clean, reliable Python 2/3 compatibility
